@@ -1,0 +1,2 @@
+ch = 'c'
+puts(ch)
