@@ -1,2 +1,0 @@
-ch = 'c'
-puts(ch)
